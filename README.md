@@ -1,1 +1,3 @@
-# Huffman_L-Homework1
+# Team awesome
+
+All about our awesome dev team.
